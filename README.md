@@ -1,14 +1,13 @@
+👋 Hi, I'm Amna (@amna-87)
+💼 Currently working as a Project Manager / Web Developer at a tech organization, where I collaborate on dynamic, cross-functional projects.
 
-👋Hi, I'm @amna-87!
+🌱 I’m actively expanding my skills in programming languages, web development, and project management, while staying curious about emerging technologies.
 
-👀 I'm interested in exploring diverse topics ranging from technology and science to art and culture.
+🎨 I'm passionate about combining creativity and technology—whether it's through developing user-friendly applications or exploring innovative design concepts.
 
-🌱 I'm currently learning new programming languages and honing my skills in web development.
+🤝 Always open to collaborating on innovative, impact-driven projects that foster growth and teamwork.
 
-I'm looking to collaborate on innovative projects that merge creativity with technology, fostering a dynamic and collaborative environment.
-
-📫 You can reach me through direct messages on this platform or via email at amnausmani906@gmail.com.
-
+📫 Let’s connect! Reach me via DM or email: amnausmani906@gmail.com
 😄 Pronouns: She/Her
 <!---
 amna-87/amna-87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
